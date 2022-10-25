@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuetify_test"]=self["webpackChunkvuetify_test"]||[]).push([[63],{9063:function(t,e,u){u.r(e),u.d(e,{default:function(){return c}});var n=function(){var t=this,e=t._self._c;return e("div",[t._v("Team")])},l=[],s={},f=s,r=u(1001),i=(0,r.Z)(f,n,l,!1,null,null,null),c=i.exports}}]);
+//# sourceMappingURL=63.3810a910.js.map
